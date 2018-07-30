@@ -16,5 +16,9 @@ def shout
   "GNARLY!!!"
 end
 
+def introduce_self
+  puts name 
+  "Hello humans, my name is #{name}"
+
 
 end
