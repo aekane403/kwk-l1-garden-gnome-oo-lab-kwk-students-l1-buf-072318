@@ -17,8 +17,8 @@ def shout
 end
 
 def introduce_self
-  puts name 
-  "Hello humans, my name is #{name}"
+  
+  "Hello humans, my name is #{name}, I am #{age} years old, and you'll rue the day you crossed me!"
 
 
 end
