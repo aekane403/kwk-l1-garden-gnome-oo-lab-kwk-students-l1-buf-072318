@@ -12,4 +12,9 @@ end
 def gnaw 
   "Gnawing on a tree!!!"
 end
+def shout
+  "GNARLY!!!"
+end
+
+
 end
