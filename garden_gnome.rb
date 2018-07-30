@@ -10,6 +10,6 @@ def initialize(personality= "evil", hat_color ="red")
   @hat_color = hat_color
 end 
 def gnaw 
-  puts "Gnawing on a tree!!!"
+  "Gnawing on a tree!!!"
 end
 end
